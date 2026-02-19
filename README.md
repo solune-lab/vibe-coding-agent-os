@@ -1,8 +1,21 @@
-# 🤖 Claude-Token-Maximizer-OS
+# 🤖 The Vibe Stack: Ultimate Claude Token Maximizer & Agent Rules
+
+![Claude Code](https://img.shields.io/badge/Optimized%20for-Claude%20Code-D97757?logo=anthropic)
+![Cursor](https://img.shields.io/badge/Supports-Cursor-00D1FF?logo=cursor)
+![Windsurf](https://img.shields.io/badge/Supports-Windsurf-8B5CF6)
+![Agnostic](https://img.shields.io/badge/Agent-Agnostic-green)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
 
 ✨ **Unlock 10x AI efficiency.** ✨ **Zero Vercel tax.** ✨ **100% Edge-ready.**
 
 > "Now that I’m using the most expensive Opus 4.6, I actually feel like I have more quota than I did with Sonnet 4.5."
+
+### 🚀 Quick Start
+1. Copy the content of `vibe-coding-rules.md`.
+2. **For Claude Code**: Place it in your project root.
+3. **For Cursor/Windsurf**: Add it to your `.cursorrules` or Project Settings.
+4. Watch your agent follow strict verification gates before every delivery.
 
 I built this system to solve my own **"Development Constipation."**
 
